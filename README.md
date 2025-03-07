@@ -26,8 +26,7 @@ I'm a **web Developer** specializing in **MERN Stack, Next.js, and TypeScript in
 
 ### 📌 **My GitHub Stats:**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mehedihassansizan&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?mehedihassansizan&show_icons=true&theme=react&hide_border=true)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mehedihassansizan&theme=github-dark&mode=weekly&card_width=510&card_height=220" alt="GitHub Streak" /></a>
 
 ---
 
