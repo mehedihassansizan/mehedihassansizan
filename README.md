@@ -26,7 +26,8 @@ I'm a **web Developer** specializing in **MERN Stack, Next.js, and TypeScript in
 
 ### 📌 **My GitHub Stats:**
  
-| <a> <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihassansizan&layout=compact&animation=true" alt="mehedihassansizan" /> <a/> | <a align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedihassansizan&show_icons=true&amnimatio=true" alt="mehedihassansizan" /> <a/> |
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihassansizan&layout=compact&animation=true" alt="mehedihassansizan" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedihassansizan&show_icons=true&amnimatio=true" alt="mehedihassansizan" /></a> |
+| ------------- | ------------- |
 
 
 ### 📫 **Let's Connect!**
