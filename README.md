@@ -20,7 +20,7 @@ I'm a **web Developer** specializing in **MERN Stack, Next.js, and TypeScript in
 - 🚀 Building **RESTful API** with TypeScript and Node.js
 - ⚡ Implementing **Caching** (Redis, Upstash)
 - 📈 Working on **MERN & Next.js** projects with SSR & ISR
-- 🎯 Continuously learning and wishes contributing to **open-source**
+- 🎯 I am continuously learning and wish to contribute to **open-source**
 
 ---
 
